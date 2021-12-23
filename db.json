@@ -2,15 +2,18 @@
   "posts": [
     {
       "id": 1,
-      "title": "BackEnd"
+      "title": "BackEnd",
+      "body": "BackEnd Developer"
     },
     {
       "id": 2,
-      "title": "FrontEnd"
+      "title": "FrontEnd",
+      "body": "FrontEnd Developer"
     },
     {
       "id": 3,
-      "title": "UI/UX"
+      "title": "UI/UX",
+      "body": "UI/UX Developer"
     }
   ],
   "profile": {
