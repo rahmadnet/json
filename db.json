@@ -1,22 +1,22 @@
-{
-  "data":
-    {
-      "posts": [
-        {
-          "id": 1,
-          "title": "hello"
-        },
-        {
-          "id": 2,
-          "title": "hello"
-        },
-        {
-          "id": 3,
-          "title": "hello"
+  {
+    "dummy":
+      {
+        "posts": [
+          {
+            "id": 1,
+            "title": "hello"
+          },
+          {
+            "id": 2,
+            "title": "hello"
+          },
+          {
+            "id": 3,
+            "title": "hello"
+          }
+        ],
+        "profile": {
+          "name": "typicode"
         }
-      ],
-      "profile": {
-        "name": "typicode"
-      }
-    } 
-}
+      } 
+  }
